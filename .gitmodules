@@ -1,0 +1,24 @@
+[submodule "instance"]
+	path = instance
+	url = git@github.com:ZakStar17/ash-by-example-tests.git
+	branch = instance
+[submodule "logical-device"]
+	path = device
+	url = git@github.com:ZakStar17/ash-by-example-tests.git
+	branch = logical-device
+[submodule "clear-image"]
+	path = clear_image
+	url = git@github.com:ZakStar17/ash-by-example-tests.git
+	branch = clear-image
+[submodule "mandelbrot"]
+	path = mandelbrot
+	url = git@github.com:ZakStar17/ash-by-example-tests.git
+	branch = mandelbrot
+[submodule "triangle-image"]
+	path = triangle_image
+	url = git@github.com:ZakStar17/ash-by-example-tests.git
+	branch = triangle-image
+[submodule "bouncy-ferris"]
+	path = bouncy_ferris
+	url = git@github.com:ZakStar17/ash-by-example-tests.git
+	branch = bouncy-ferris
