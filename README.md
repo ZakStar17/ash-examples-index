@@ -37,7 +37,7 @@ To run an example with validation layers disabled and with optimizations, naviga
 cargo run --release --no-default-features --features link
 ```
 
-The `link` / `load` features specify if the Vulkan Loader shall be linked at runtime or compile time (see https://docs.vulkan.org/guide/latest/loader.html). `vl` enables the use of validation layers. More information, as well as the list of default layers can be found in the example's respective README.
+The `link` / `load` features specify if the Vulkan Loader shall be linked at runtime or compile time (see https://docs.vulkan.org/guide/latest/loader.html). `vl` enables the use of validation layers. More information, as well as the list of default cargo features can be found in the respective example's README.
 
 ## Checking the logs
 
