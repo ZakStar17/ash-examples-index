@@ -21,4 +21,4 @@
 [submodule "bouncy-ferris"]
 	path = bouncy_ferris
 	url = https://github.com/ZakStar17/ash-examples.git
-	branch = boncy-ferris2
+	branch = new_bouncy-ferris
